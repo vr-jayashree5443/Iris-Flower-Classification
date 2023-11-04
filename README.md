@@ -31,6 +31,8 @@ Let's walk through the workflow of the provided Python code step by step:
    - The code presents the predicted and actual species values side by side. It shows both numerical labels and species names, making it easier to understand the results.
 
 10. **Plotting the Confusion Matrix:**
+    ![image](https://github.com/vr-jayashree5443/Iris-Flower-Classification/assets/128161257/b2350672-59c7-4983-86cf-a28f08839c19)
+
     - The confusion matrix is visualized using Matplotlib. The matrix is displayed as a grid where the color intensity in each cell represents the number of correct predictions for each species. Species names are used for labeling the axes, enhancing the readability of the confusion matrix.
 
 In summary, this code performs the complete workflow for Iris flower classification, including data loading, model training, evaluation, and result visualization with a focus on making the output more interpretable by using species names instead of numerical labels.
